@@ -38,12 +38,14 @@ section {
 footer {
     background-color: #000000;
     color: white;
-    text-align: center;
     align-items: center;
     padding: 10px 0;
     position: fixed;
     width: 100%;
     bottom: 0;
+}
+.Footertxt{
+  margin-left: 48%;
 }
 
 form {
